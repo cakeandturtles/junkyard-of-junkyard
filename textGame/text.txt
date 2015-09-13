@@ -1,0 +1,22 @@
+Problem: Create a text based game which is slightly innovative and fun and applies good game design principles.
+
+My most favorite potential solution: Player starts out with a limited number of verbs (if not one or two), and as the game progresses, must use these verbs to unlock more verbs and learn how to intuitively and intellilaterally use these verbs in good combinations.
+
+How would this play out?:###############################################################
+Player character is a robot who just woke up with robomnesia. 
+
+
+Include a dictionary of terms.
+An inventory.
+And an uber simplified overworld map.
+
+-------------------------------------------------------------------------------------------
+Certain times allow players to choose one verb to learn over another, or get rid of one verb to learn another (because of limited memory or whatever)
+
+Because of this, and because of good game design -__-, puzzles and narratives should have mutliple solutions and multiple outcomes.
+
+
+
+
+-What are  things that people can do in real life?
+[look; take; open; close; throw; swing; 

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="scaryforest" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\scaryforest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add option="-lallegro-5.0.6-monolith-mt" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\scaryforest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="resources\code\Collision.cpp" />
+		<Unit filename="resources\code\Constants.h" />
+		<Unit filename="resources\code\Object.cpp" />
+		<Unit filename="resources\code\Object.h" />
+		<Unit filename="resources\code\Player.cpp" />
+		<Unit filename="resources\code\Player.h" />
+		<Unit filename="resources\code\Solid.cpp" />
+		<Unit filename="resources\code\Solid.h" />
+		<Unit filename="resources\code\scaryforest.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

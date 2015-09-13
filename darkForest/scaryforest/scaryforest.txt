@@ -1,0 +1,32 @@
+SCARY FOREST
+-Remember in Mother 3, when you were being chased through the Chimera lab by the Ultimate Chimera?
+-Well this game is like that to the extreme
+-Also probably want to implement procedurally generated areas 
+
+-You're asleep under a tree in a meadow when your cat runs into a forest. You follow him in to rescue the cat and come home. When you enter the forest though, the stone door to the forest shuts close (what) and it's very dark inside. 
+
+-Top down zelda style movement. A monster (and various other nightmares or whatever) roam the forest in randomly generated areas. The map is 8x8 or something similar, and the layout should change each time you play it. Likewise, you have to find the cat three times in order to save him (cat doesn't give a fuck about the monster and is just chasing a bug or something and is placed in a random area each time you find him or whatever).
+
+"Be very careful, it's easy to get lost in the woods"
+
+-Layout of the woods follows the same bastardization of direction that the tricky forest from oracle of ages did
+
+-Each time you find your cat the layout of the woods shifts about (???)
+
+-Whenever the monster is on the screen as yours it will see you and start to chase you. If this happens, you must immediately escape offscreen or else it will get you shortly. The monster is slower offscreen and this gives you time to make your escape or whatever. 
+
+-If the monster finds and eats you, you respawn in a fairie ring "safe zone" at the beginning of the forest in a patch of light, but when you enter the woods again forreal you can't get back to the safe zone
+
+
+-ALONG the way there are several hidden magic bugs, that are somewhat noticeable and spawn randomly.
+
+
+
+
+
+
+
+
+
+-Next game project::NetHack/DwarfFortress like game
+-Next audiovisual project::Auracle

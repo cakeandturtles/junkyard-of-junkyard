@@ -1,0 +1,35 @@
+what is fun about typing???
+what interesting mechanics can be derived through typing and text?
+and by interesting i mean fun too
+-we need instant feedback
+-simplish mechanics 
+
+
+===================================================================================================================
+
+MAKE THE LETTERS AND SYMBOLS IN THE GAME BE THE TOKENS OF MECHANICS, NOT WORDS!!! MAKE YOUR OWN LANGUAGE OUT OF THE MECHANICS OF LETTERS!!!
+	-how can characters be broken up??
+
+-------------------------------------------------------------------------------------------------------------------
+
+abcdefghijklmnopqrstuvwxyz (vs) ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+aeiou (vs) bcdfghjklmnpqrstvwxz (vs) y
+
+abcdefghijklmnopqrstuvwxyz (vs) 1234567890
+
+abcdefghijklmnopqrstuvwxyz (vs) !@#$%^&*()~`:;"'<>,./?\|_+-=
+
+hm...
+
+
+
+
+
+
+
+different letters represent different spells or attacks or conversation mechanics::
+the game screen can be drawn in characters, and can be tile based.
+capital letters are more powerful versions of their lowercase equivalent, but take away more energy or something
+
+

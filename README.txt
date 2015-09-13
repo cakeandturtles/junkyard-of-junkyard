@@ -1,0 +1,1 @@
+collection of other half finished dead projects from highschool/early-college

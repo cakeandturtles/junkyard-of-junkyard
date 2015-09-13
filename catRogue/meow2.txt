@@ -1,0 +1,32 @@
+-Cute lil' monkey and cute lil cat grid based turn-based movement
+
+WHAT I DON'T WANT TO DO: 
+	-make unicef all over again but turn based
+
+WHAT I DO WANT TO DO:
+	-Create some simple explicit rules that creat elegance of gameplay
+	-CREATE. AN. EXPERIENCE
+
+
+MONKEYS VS. CATS!!!
+meow meow meow ook ook ook
+
+-Recruit members from each cutesie pet cathedral to battle a giant enemy who is threatening everyone
+
+	-"Only if you can beat me in a fair fight!!!"
+	-And the members have a sort of rock paper scissors advantage over one another, which you must master to get them, and which will come in handy when you fight the big boss
+	-The fighting would be a mix between chess and mystery dungeon RPG, traps and environment would play a part.
+
+
+AREAS OF TACTICAL SHEET
+-Movement (number of tiles)
+-Detection of traps (which are otherwise invisible)
+-Damage dealt
+-Healing abilities
+-Damage absorbed (HP or DEF???)
+-The ability to disable opponent's abilities (can be game breaking)
+	-Putting other enemies into "time-out"s (inspired by beaters in QUIDDITCH)!!!
+-Being more powerful by yourself or with allies around you
+-Being more powerful based on lower or higher hp
+-Taking a turn switching to another class (or not taking a turn) AGL???
+

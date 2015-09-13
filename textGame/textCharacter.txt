@@ -1,0 +1,28 @@
+12345  67890  		!@#$%  ^&*()
+qwert  yuiop  		QWERT  YUIOP
+asdfg  hjkl;  		ASDFG  HJKL:
+zxcvb  nm,./  		ZXCVB  NM<>?
+
+
+
+
+okay, so what should we do with these??
+
+[there are four rows of characters, are these too many to work with? (probably)]
+
+
+
+
+asdfghjkl;
+
+
+uh... so I wanted like communication, combat, and 
+
+in an abstract world where everything is made up of characters... 
+
+EX: 
+'!' indicates the object is hostile
+'@' indicates the object can fit inside your inventory
+'#' indicates the object can move (be pushed/pulled)
+'$' indicates the object can speak
+'%' indicates the object is breakable

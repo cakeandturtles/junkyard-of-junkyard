@@ -1,0 +1,23 @@
+***Sms/messenger client. Part neopets, part twitter/facebook. twitter text mmorpg. sms and twitter format
+
+0. Social media gamified soft-fantasy reality modern loose rpg elements
+
+1. Fluid name (static account name) race, gender, sexuality, job/class, hobby, alignment, "personality temperament". Optional history for all these. 
+
+2. Make "friends" and have a personal "party" (like myspace). Optionally rate how u feel about people and keep track. 
+
+3. Start out low level but can gain equipment, skills, and spells. Display ur avatar/equipment/spells or and a cover photo *shrug*.com. 
+	-level doesnt really matter though
+
+4???. fight idle habitrpg monsters/npcs for loot, depending on ur level and your parties cooperation. 
+
+5. Neopet click events as u explore other people's pages or your "wall". 
+	a. Customize your page/dungeon (like neopets html pages but with multiple "pages" like python puzzle)
+	
+6. connect up to people easily for talking 1 on 1 or in tiny groups and "questing"
+
+	-Turn on or off random encounters with players 
+
+7. mostly a cool platform for learning javascript and html and meeting people and personal expression y'all
+
+8??. Can collect and trade pets and bugs too
